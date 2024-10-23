@@ -1,0 +1,136 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django stuff
+*.log
+staticfiles/
+media/
+local_settings.py
+db.sqlite3
+*.pot
+*.pyc
+
+# If using PostgreSQL
+*.pgdata
+
+# Backup files
+*.bak
+*.swp
+
+# If using Docker
+*.dockerignore
+Dockerfile
+docker-compose.yml
+
+# VSCode settings
+.vscode/
+
+# IDEs
+.idea/
+.project
+.pydevproject
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# PyCharm
+*.idea/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+*.sqlite3
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+.coverage.*
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Environments
+.env
+.env.*
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.pytest_cache/
+
+# Celery beat schedule file
+celerybeat-schedule
+
+# Static and media files
+/static/
+media/
+
+# Local dev
+local.py
+.env.local
+
+# Ansible
+roles/
+
+# Gunicorn logs
+gunicorn.log
+gunicorn.access.log
+gunicorn.error.log
+
+# PyCharm configuration files
+
+.idea/
+.idea/**/*
+*.iml
+*.ipr
+*.iws
+
+# Project-specific files
+
+.idea/vcs.xml                # Version control settings
+.idea/workspace.xml          # Workspace-specific settings
+.idea/misc.xml               # Miscellaneous project settings
+.idea/modules.xml            # Module settings
+.idea/inspectionProfiles/    # Inspection profiles
+.idea/assetWizard.xml        # Asset Wizard settings
+.idea/encodings.xml          # Encoding settings
+.idea/artifacts/             # Artifacts configurations
+.idea/runConfigurations/     # Run configurations
+.idea/usage.statistics.xml
