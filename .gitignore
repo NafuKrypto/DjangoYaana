@@ -136,3 +136,5 @@ gunicorn.error.log
 .idea/usage.statistics.xml
 
 .idea/workspace.xml
+
+.idea
